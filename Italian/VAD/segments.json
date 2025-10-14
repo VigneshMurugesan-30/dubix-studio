@@ -1,0 +1,80 @@
+[
+    {
+        "id": 0,
+        "file": "/kaggle/working/VAD/speech_segment_0.wav",
+        "start": 0.514,
+        "end": 3.454
+    },
+    {
+        "id": 1,
+        "file": "/kaggle/working/VAD/speech_segment_1.wav",
+        "start": 4.098,
+        "end": 5.758
+    },
+    {
+        "id": 2,
+        "file": "/kaggle/working/VAD/speech_segment_2.wav",
+        "start": 6.05,
+        "end": 12.126
+    },
+    {
+        "id": 3,
+        "file": "/kaggle/working/VAD/speech_segment_3.wav",
+        "start": 12.578,
+        "end": 13.502
+    },
+    {
+        "id": 4,
+        "file": "/kaggle/working/VAD/speech_segment_4.wav",
+        "start": 13.826,
+        "end": 15.134
+    },
+    {
+        "id": 5,
+        "file": "/kaggle/working/VAD/speech_segment_5.wav",
+        "start": 15.394,
+        "end": 21.182
+    },
+    {
+        "id": 6,
+        "file": "/kaggle/working/VAD/speech_segment_6.wav",
+        "start": 21.602,
+        "end": 24.286
+    },
+    {
+        "id": 7,
+        "file": "/kaggle/working/VAD/speech_segment_7.wav",
+        "start": 24.802,
+        "end": 27.294
+    },
+    {
+        "id": 8,
+        "file": "/kaggle/working/VAD/speech_segment_8.wav",
+        "start": 27.554,
+        "end": 31.422
+    },
+    {
+        "id": 9,
+        "file": "/kaggle/working/VAD/speech_segment_9.wav",
+        "start": 31.522,
+        "end": 34.91
+    },
+    {
+        "id": 10,
+        "file": "/kaggle/working/VAD/speech_segment_10.wav",
+        "start": 35.266,
+        "end": 37.438
+    },
+    {
+        "id": 11,
+        "file": "/kaggle/working/VAD/speech_segment_11.wav",
+        "start": 37.826,
+        "end": 38.718
+    },
+    {
+        "id": 12,
+        "file": "/kaggle/working/VAD/speech_segment_12.wav",
+        "start": 38.882,
+        "end": 39.69
+    }
+]
